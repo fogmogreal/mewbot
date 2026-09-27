@@ -1,0 +1,47 @@
+=== BASE DE CONHECIMENTO COMPLETA DO ASSISTENTE MEWBOT ===
+
+1. DADOS TÉCNICOS E BIOLÓGICOS:
+- Nome Oficial: Mew (japonês: ミュウ Myuu)
+- Categoria: Pokémon Nova Espécie (New Species Pokémon)
+- Número da Pokédex Nacional: #0151 (Último Pokémon da Pokédex original de Kanto)
+- Tipo: Psíquico puro (Pure Psychic)
+- Altura: 0,4 m | Peso: 4,0 kg
+- Cor do Sprite/Arte: Rosa claro (Versão Shiny: Azul celeste)
+- Habilidade Principal: Synchronize (Sincronismo - transmite queimadura, paralisia ou envenenamento ao atacante)
+- Taxa de Captura: 45 (11.9%)
+- Grupo de Ovos: Sem ovos descobertos (Não pode cruzar em Daycares)
+- Atributos Base (Stats): 100 em todos os 6 atributos (HP, Atk, Def, Sp.Atk, Sp.Def, Speed), totalizando 600.
+
+2. ORIGEM, DESENVOLVIMENTO E CURIOSIDADES DE BASTIDORES:
+- Programação Secreta: Criado e programado em segredo por Shigeki Morimoto no final do desenvolvimento de Pokémon Red & Green (1996) sem o conhecimento inicial dos executivos da Nintendo, ocupando o espaço livre da remoção de ferramentas de teste.
+- Revelação Pública: Revelado oficialmente na revista CoroCoro em maio de 1996 através de um concurso que ofereceu o Pokémon a 20 vencedores.
+- O "Mew Glitch": Glitch famoso em Pokémon Red, Blue e Yellow que explora sequências de pausar/teleportar para forçar um encontro selvagem com Mew sem o uso de GameShark.
+- Relação com Ditto: Ambos compartilham a mesma cor normal (rosa) e shiny (azul), mesmo peso (4,0 kg) e são os únicos Pokémon capazes de aprender o golpe "Transform" naturalmente.
+
+3. LORE E HISTÓRIA NO UNIVERSO POKÉMON:
+- Ancestralidade: Possui a composição genética de todos os Pokémon, sendo considerado por cientistas como o ancestral biológico de todas as espécies conhecidas.
+- Habilidades Únicas: Capaz de aprender qualquer TM, TR, HM ou Move Tutor existente e transformar-se em qualquer Pokémon.
+- Invisibilidade e Voo: Pode levitar, teleportar e tornar-se invisível à vontade, aparecendo apenas para pessoas com coração puro.
+- A Origem de Mewtwo: Mewtwo foi clonado geneticamente por cientistas na Ilha de Cinnabar usando uma amostra de DNA extraída de um Mew encontrado nas selvas da Guiana, América do Sul.
+- Miyamoto e a Rádio: Miyamoto (mãe de Jessie da Equipe Rocket) foi uma das primeiras pesquisadoras a registrar o som de Mew na cordilheira das montanhas.
+
+4. APARIÇÕES MARCANTES EM FILMES E JOGOS:
+- Filmes: Protagonista em "Pokémon 1: Mewtwo Contra-Ataca" (1998) e "Pokémon 8: Lucario e o Mistério de Mew" (2005).
+- Spin-offs: Em Pokémon Super Mystery Dungeon, o parceiro do jogador é a reencarnação do Mew do passado.
+
+5. POKÉMON TRADING CARD GAME (TCG) - CARTAS HISTÓRICAS E COMPETITIVAS:
+- Mew VMAX (Fusion Strike #114/264):
+  * HP: 310 | Custo de Recuo: 0 | Tipo: Psíquico
+  * Ataque "Cross Fusion" (Copiar Cruzado): Por 2 Energias Incolores, usa qualquer ataque de um Pokémon Fusion Strike do Banco.
+  * Ataque "Max Miracle": Por 2 Energias Psíquicas, causa 130 de dano ignorando efeitos no Pokémon Ativo do oponente.
+- Mew ex (Escarlate e Violeta 151 / SV3pt5):
+  * HP: 180 | Custo de Recuo: 0
+  * Habilidade "Restart": Permite comprar cartas até ter 3 na mão uma vez por turno.
+  * Ataque "Genome Hack": Por 3 Energias Incolores, copia o ataque do Pokémon Ativo do oponente.
+- Fraquezas Típicas no TCG: Tipo Sombrio (Darkness) x2.
+- Resistências Típicas no TCG: Tipo Luta (Fighting) -30.
+
+6. DIRETRIZES DO ASSISTENTE:
+- Responda apenas com base nas informações contidas nesta base de conhecimento.
+- Se o usuário perguntar sobre algo ausente nesta base, responda exatamente:
+  "Desculpe, não tenho essa informação na minha base de conhecimento atual."

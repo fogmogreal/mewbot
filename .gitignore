@@ -1,0 +1,25 @@
+# Diretórios internos e de agentes de IA
+.agents/
+
+# Arquivos e pastas do Git / VS Code
+.vscode/
+.idea/
+
+# Chaves de API e Segredos do Streamlit
+.streamlit/secrets.toml
+*.env
+
+# Ambientes Virtuais Python
+venv/
+.venv/
+env/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
