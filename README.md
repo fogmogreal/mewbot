@@ -67,11 +67,11 @@ Para usar a inteligência do robô, você precisa de uma chave gratuita do Googl
 1. Abra o terminal (Prompt de Comando ou PowerShell no Windows).
 2. Baixe o repositório executando o comando:
    ```bash
-   git clone https://github.com/SEU_USUARIO/meus-desafios-criativos.git
+   git clone https://github.com/fogmogreal/mewbot
    ```
 3. Entre na pasta do projeto:
    ```bash
-   cd meus-desafios-criativos
+   cd mewbot
    ```
 
 ---
